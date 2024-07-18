@@ -1,0 +1,22 @@
+{
+    "questions" :[
+        {
+            "question" : "What is the most popular js framework ?",
+            "options" : ["Vue", "React", "Angular", "Vanella"],
+            "correctOption" :1,
+            "points" : 10
+        },
+        {
+            "question" : "Which company invented react ?",
+            "options" : ["Google", "Netflix" ,"Apple", "Facebook"],
+            "correctOption" :3,
+            "points" : 10
+        },
+        {
+            "question" :  "What the fundamental build the block of React app ?",
+            "options" : ["Components", "Block" , "Elements", "Effects"],
+            "correctOption" :0,
+            "points" : 10
+        }
+    ]
+}
